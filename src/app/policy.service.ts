@@ -18,6 +18,11 @@ export class PolicyService {
         new Policy(3,'Term Insurance_Child',10000),
         new Policy(4,'Term Insurance_Coronavirus',10000),
         new Policy(5,'Term Insurance_LifeInsurance',40000),
+        new Policy(6,'Term Insurance_HealthInsurance',35000),
+        new Policy(7,'Term Insurance_MotorInsurance',45000),
+        new Policy(8,'Term Insurance_TravelInsurance',55000),
+        new Policy(9,'Term Insurance_PropertyInsurance',75000),
+        new Policy(10,'Term Insurance_MobileInsurance',37000),
     ]
 
     return policies;               
